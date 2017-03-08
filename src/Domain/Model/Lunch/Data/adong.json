@@ -334,5 +334,69 @@
       "zl": 18,
       "gr": 50
     }
+  },
+  {
+    "position": "43",
+    "name": "Krewetki pikantne",
+    "price": {
+      "zl": 25,
+      "gr": 0
+    }
+  },
+  {
+    "position": "44",
+    "name": "Krewetki curry po thailandzku",
+    "price": {
+      "zl": 25,
+      "gr": 0
+    }
+  },
+  {
+    "position": "45",
+    "name": "Krewetki na zielonym curry",
+    "price": {
+      "zl": 25,
+      "gr": 0
+    }
+  },
+  {
+    "position": "46",
+    "name": "Krewetki na czerwonym curry",
+    "price": {
+      "zl": 25,
+      "gr": 0
+    }
+  },
+  {
+    "position": "47",
+    "name": "Krewetki słodko-kwaśne",
+    "price": {
+      "zl": 25,
+      "gr": 0
+    }
+  },
+  {
+    "position": "48",
+    "name": "Krewetki królewskie (7 sztuk)",
+    "price": {
+      "zl": 28,
+      "gr": 0
+    }
+  },
+  {
+    "position": "49",
+    "name": "Krewetki w cieście sezamowym (7 sztuk)",
+    "price": {
+      "zl": 28,
+      "gr": 0
+    }
+  },
+  {
+    "position": "50",
+    "name": "Krewetki w kokosowej panierce (7 sztuk)",
+    "price": {
+      "zl": 28,
+      "gr": 0
+    }
   }
 ]
